@@ -1,7 +1,7 @@
-streamlit==[latest_version]
-pandas==[latest_version]
-seaborn==[latest_version]
-matplotlib==[latest_version]
-plotly==[latest_version]
-pickle-mixin==[latest_version]
-statsmodels==[latest_version]
+streamlit
+pandas
+seaborn
+matplotlib
+plotly
+pickle-mixin
+statsmodels
